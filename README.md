@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I’m Rifaha Alam<br><br>🚀 Data Science Student | B.Tech | Problem Solver<br>📊 Currently exploring Data Analysis, Machine Learning & Python<br>💻 Building projects to strengthen real-world problem-solving skills<br>🤝 Open to collaboration on beginner-friendly ML & data projects<br>📚 Always learning, always improving
+Hi, I’m Rifaha Alam<br><br>🚀 Data Science Student | B.Tech | Problem Solver<br>📊 Currently exploring Data Analysis, Machine Learning & Python<br>💻 Building projects to strengthen real-world problem-solving skills<br>🤝 Open to collaboration on beginner-friendly ML & data projects<br>📚 Always learning, always improving 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
